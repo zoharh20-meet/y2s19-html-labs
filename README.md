@@ -24,9 +24,9 @@ To do that
   * A header tag
   * Add/change title for your page
   * A body tag
-  * A p paragraph inside you <body> tag
+  * A p paragraph inside the <body> tag
   * A h1 tag inside the <body> tag
-  * A h2 tag inside <body> tag
+  * A h2 tag inside the <body> tag
  
 Not sure what to do? See the html example [here](https://www.w3schools.com/)
 
